@@ -7,3 +7,5 @@
 ### - Email (epixunknown@protonmail.com)
 ### - IRC (libera.chat - @arch_angel)
 ### - StackOverflow (@epixinvites)
+
+![Linux Penguin](1626796240751.png)
