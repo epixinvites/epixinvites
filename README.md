@@ -1,6 +1,6 @@
 # Hello! I am a C++ Developer.
 
-## Check out my unfinished guides [here](https://epixinvites.github.io).
+## Check out my website [here](https://epixinvites.github.io).
 
 ### My contacts
 ### - Wire (@thewayfarrer)
