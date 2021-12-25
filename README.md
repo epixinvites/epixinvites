@@ -13,6 +13,4 @@ Where the hackers play.
 ### - Email (epixunknown@protonmail.com)
 ### - IRC (libera.chat - @arch_angel)
 
-#### Nothing to see here, just a high schooler passionate in developing C++ programs
-
 
