@@ -6,3 +6,5 @@ In the bright land of Linux,
 Where the hackers play.
 
 Contact me at epixunknown@protonmail.com.
+
+![ihatecpp.jpg](ihatecpp.jpg)
