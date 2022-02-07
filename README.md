@@ -1,3 +1,5 @@
+## My active repositories are now moved to https://sr.ht/~arch-angel/!
+
 > One OS to rule them all,  
 One OS to find them.  
 One OS to call them all,  
